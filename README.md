@@ -20,8 +20,8 @@ A few bits of advice to work more effectively with developers.
 -	It can sometimes take 30 minutes or so to get warmed up to what you need to do, getting your head in a state where it fully understands the system you’re working on and how you’re going to adapt it
 -	Slack channels without notifications, can be a good place to have conversations, as developers can check them when they’re between tasks
 
-http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/
-http://thefuturebuzz.com/2013/03/28/the-cost-of-interruption-visualized/
+- http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/
+- http://thefuturebuzz.com/2013/03/28/the-cost-of-interruption-visualized/
 
 
 ## Stand ups
