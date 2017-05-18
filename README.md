@@ -18,10 +18,10 @@ http://stackoverflow.com/questions/984885/how-do-i-explain-the-overhead-of-commu
 
 ## Interruptions
 
--	Developing code means getting your head deeply in to a problem/system
--	It can sometimes take 30 minutes or so to get warmed up to what you need to do, getting your head in a state where it fully understands the system you’re working on and how you’re going to adapt it
+-	Developing code means getting your head deeply in to a problem/system.
+-	It can sometimes take 30 minutes or so to get warmed up to what you need to do, getting your head in a state where it fully understands the system you’re working on and how you’re going to adapt it.
 -	Slack channels can be a good place to have conversations, as developers can check them when they’re between tasks. Try not to trigger notifications unless needed.
-- If a developer has headphones on, assume they're in the middle of something complex and only interupt them if it can't wait and can't be done over Slack/email
+- If a developer has headphones on, unless you know otherwise assume they're doing so in order to discourage people from interupting them. Consider whether you could email or message them on Slack rather than interupt them.
 
 http://heeris.id.au/2013/this-is-why-you-shouldnt-interrupt-a-programmer/
 
