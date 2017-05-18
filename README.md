@@ -10,9 +10,11 @@ A few bits of advice to work more effectively with developers.
 -	If 5 people are in a meeting and spend 20 minutes talking about something that’s only relevant to 2 of them, an hour of time is lost
 -	As you add more people to a problem, meeting or decision, it exponentially increases the cross communication overhead
 
+http://stackoverflow.com/questions/984885/how-do-i-explain-the-overhead-of-communication-between-developers-in-a-team
+
 ## Adding people can increase development time
 
--	Please read the mythical man month, it was published in 1975 but is still scarily relevant 
+-	Please read [The Mythical Man-Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month), it was published in 1975 but is still scarily relevant 
 
 ## Interruptions
 
